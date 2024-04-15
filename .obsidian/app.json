@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "_NOVAS_NOTAS",
-  "attachmentFolderPath": "./anexos"
+  "attachmentFolderPath": "./anexos",
+  "showInlineTitle": false
 }

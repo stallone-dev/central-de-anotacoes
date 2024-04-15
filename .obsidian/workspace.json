@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
+                "file": "universidade/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abb2d4f3d3274995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_NOVAS_NOTAS/teste.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
+                "file": "_NOVAS_NOTAS/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
+                "file": "_NOVAS_NOTAS/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md"
+                "file": "_NOVAS_NOTAS/teste.md"
               }
             }
           },
@@ -155,8 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cad0584f7e48b69",
+  "active": "abb2d4f3d3274995",
   "lastOpenFiles": [
+    "universidade/README.md",
+    "_NOVAS_NOTAS/teste.md",
+    "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
     "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Operacional.md",
     "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Efetivações.md",
@@ -186,7 +202,6 @@
     "_privado/anotacoes-stallone/8 - Projetos",
     "_privado/anotacoes-stallone/3 - Análises/Atividades - Gestão de Resíduos.md",
     "_privado/anotacoes-stallone/3 - Análises",
-    "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas",
     "_privado/anotacoes-stallone/1 - Demandas diárias",
     "_privado/anotacoes-stallone/0 - Urgencias/12-04-24 - MATHEUS - Analise peso médio CXs aterro (sem industrial).md"
