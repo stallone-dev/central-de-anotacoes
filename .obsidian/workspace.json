@@ -11,8 +11,12 @@
             "id": "5cad0584f7e48b69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md"
+              }
             }
           },
           {
@@ -147,8 +155,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a1aa38a0b8fc602",
+  "active": "5cad0584f7e48b69",
   "lastOpenFiles": [
+    "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
+    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Operacional.md",
+    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Efetivações.md",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145511.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145555.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151214.png",
@@ -159,7 +170,6 @@
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151152.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145813.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151554.png",
-    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150111.png",
     "_privado/anotacoes-stallone/lost_found",
     "_privado/anotacoes-stallone/coordenacao-de-residuos",
     "_privado/anotacoes-stallone/README.md",
@@ -177,10 +187,7 @@
     "_privado/anotacoes-stallone/3 - Análises/Atividades - Gestão de Resíduos.md",
     "_privado/anotacoes-stallone/3 - Análises",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
-    "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas",
-    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Operacional.md",
-    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Efetivações.md",
     "_privado/anotacoes-stallone/1 - Demandas diárias",
     "_privado/anotacoes-stallone/0 - Urgencias/12-04-24 - MATHEUS - Analise peso médio CXs aterro (sem industrial).md"
   ]
