@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "66e14a30ff3277d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5064e4db7e857ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cad0584f7e48b69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d158743fe865ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2babe088ed5f5aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a1aa38a0b8fc602",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f8d19a5e5b83b32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7059ca9675d0030b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a87e8280a326dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "99250826aa0d254e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a7af0f3eabcde7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e04a86cf401f75dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "386326b3a85edf78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b830320ef3442f16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbb4cca98ba6981b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3a1aa38a0b8fc602",
+  "lastOpenFiles": [
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145511.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145555.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151214.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150136.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145649.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145541.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150005.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151152.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145813.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151554.png",
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150111.png",
+    "_privado/anotacoes-stallone/lost_found",
+    "_privado/anotacoes-stallone/coordenacao-de-residuos",
+    "_privado/anotacoes-stallone/README.md",
+    "_privado/anotacoes-stallone/PADRÃO.code-profile",
+    "_privado/anotacoes-stallone/LICENSE",
+    "_privado/anotacoes-stallone/Definições/Arla.md",
+    "_privado/anotacoes-stallone/Definições",
+    "_privado/anotacoes-stallone/9 - Outros/09-03-24 - Reunião com Matheus - CUSTOS.md",
+    "_privado/anotacoes-stallone/9 - Outros/09-03-24 - 1a Reunião com Matheus.md",
+    "_privado/anotacoes-stallone/9 - Outros",
+    "_privado/anotacoes-stallone/8 - Projetos/12-04-24 - MICHERLANE - Treinamento para motoristas (rascunho).md",
+    "_privado/anotacoes-stallone/8 - Projetos/03-24 - Sugestão de Metas - LOGISTICA.md",
+    "_privado/anotacoes-stallone/8 - Projetos/03-24 - Repensando metas.md",
+    "_privado/anotacoes-stallone/8 - Projetos",
+    "_privado/anotacoes-stallone/3 - Análises/Atividades - Gestão de Resíduos.md",
+    "_privado/anotacoes-stallone/3 - Análises",
+    "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
+    "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
+    "_privado/anotacoes-stallone/2 - Demandas periódicas",
+    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Operacional.md",
+    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Efetivações.md",
+    "_privado/anotacoes-stallone/1 - Demandas diárias",
+    "_privado/anotacoes-stallone/0 - Urgencias/12-04-24 - MATHEUS - Analise peso médio CXs aterro (sem industrial).md"
+  ]
+}
