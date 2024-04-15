@@ -1,0 +1,27 @@
+# Enviroment variables
+.env
+
+# Enviroment context
+node_modules
+*.lob
+*.clasp.json
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.rar
+*.iso
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotilight-V100
+.Trashes
+ehthumbs.db
+Tumbs.db
+
+# Others
+_privado/*
+**/_priv/*
