@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily-notes/15-04-24.md",
+                "file": "_templates/{{date}} - Modelo de anotação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily-notes/15-04-24.md",
+                "file": "_templates/{{date}} - Modelo de anotação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily-notes/15-04-24.md",
+                "file": "_templates/{{date}} - Modelo de anotação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily-notes/15-04-24.md"
+                "file": "_templates/{{date}} - Modelo de anotação.md"
               }
             }
           }
@@ -164,9 +164,10 @@
   },
   "active": "66757ff106c41552",
   "lastOpenFiles": [
+    "README.md",
+    "_daily-notes/15-04-24.md",
     "_templates/daily model.md",
     "_templates/{{date}} - Modelo de anotação.md",
-    "_daily-notes/15-04-24.md",
     "_NOVAS_NOTAS/teste.md",
     "_NOVAS_NOTAS/Sem título.md",
     "_NOVAS_NOTAS/anexos/Pasted image 20240415215136.png",
@@ -179,7 +180,6 @@
     "Excalidraw/Drawing 2024-04-15 21.09.30.excalidraw.md",
     "_NOVAS_NOTAS/anexos/Pasted image 20240415222510.png",
     "_NOVAS_NOTAS/anexos/teorico (9).pdf",
-    "README.md",
     "_NOVAS_NOTAS/anexos/projeto_de_software_aula1.pdf",
     "_NOVAS_NOTAS/anexos",
     "_daily-notes",
