@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/{{date}} - Modelo de anotação.md",
+                "file": "_templates/daily model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/{{date}} - Modelo de anotação.md",
+                "file": "_templates/daily model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/{{date}} - Modelo de anotação.md",
+                "file": "_templates/daily model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/{{date}} - Modelo de anotação.md"
+                "file": "_templates/daily model.md"
               }
             }
           }
@@ -164,10 +164,10 @@
   },
   "active": "66757ff106c41552",
   "lastOpenFiles": [
+    "_templates/Modelo de anotação.md",
     "README.md",
     "_daily-notes/15-04-24.md",
     "_templates/daily model.md",
-    "_templates/{{date}} - Modelo de anotação.md",
     "_NOVAS_NOTAS/teste.md",
     "_NOVAS_NOTAS/Sem título.md",
     "_NOVAS_NOTAS/anexos/Pasted image 20240415215136.png",
