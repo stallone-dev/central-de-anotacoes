@@ -1,0 +1,5 @@
+{
+  "template": "_templates/daily model",
+  "format": "DD-MM-YY",
+  "folder": "_daily-notes"
+}

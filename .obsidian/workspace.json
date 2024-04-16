@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5064e4db7e857ef3",
+        "id": "eaf11247dafe89ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5cad0584f7e48b69",
+            "id": "66757ff106c41552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidade/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abb2d4f3d3274995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_NOVAS_NOTAS/teste.md",
+                "file": "_daily-notes/15-04-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#daily-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_NOVAS_NOTAS/teste.md",
+                "file": "_daily-notes/15-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_NOVAS_NOTAS/teste.md",
+                "file": "_daily-notes/15-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_NOVAS_NOTAS/teste.md"
+                "file": "_daily-notes/15-04-24.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1830e51ff0330141",
+        "type": "tabs",
+        "children": [
           {
             "id": "dbb4cca98ba6981b",
             "type": "leaf",
@@ -168,10 +162,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abb2d4f3d3274995",
+  "active": "66757ff106c41552",
   "lastOpenFiles": [
-    "universidade/README.md",
+    "_templates/daily model.md",
+    "_templates/{{date}} - Modelo de anotação.md",
+    "_daily-notes/15-04-24.md",
     "_NOVAS_NOTAS/teste.md",
+    "_NOVAS_NOTAS/Sem título.md",
+    "_NOVAS_NOTAS/anexos/Pasted image 20240415215136.png",
+    "_daily-notes/24-04-24.md",
+    "_conceitos/vetores.md",
+    "_daily-notes/17-04-24.md",
+    "_NOVAS_NOTAS/arrays.md",
+    "Excalidraw/Drawing 2024-04-15 21.56.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-15 22.27.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-15 21.09.30.excalidraw.md",
+    "_NOVAS_NOTAS/anexos/Pasted image 20240415222510.png",
+    "_NOVAS_NOTAS/anexos/teorico (9).pdf",
+    "README.md",
+    "_NOVAS_NOTAS/anexos/projeto_de_software_aula1.pdf",
+    "_NOVAS_NOTAS/anexos",
+    "_daily-notes",
+    "_NOVAS_NOTAS/15-04-24.md",
+    "_NOVAS_NOTAS/2024-04-15.md",
+    "universidade/README.md",
+    "_conceitos/anexos/Pasted image 20240415211209.png",
+    "_conceitos/anexos",
+    "Excalidraw",
+    "_conceitos",
+    "_templates",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
     "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Operacional.md",
@@ -183,27 +202,12 @@
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145649.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145541.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150005.png",
-    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151152.png",
-    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145813.png",
-    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151554.png",
     "_privado/anotacoes-stallone/lost_found",
     "_privado/anotacoes-stallone/coordenacao-de-residuos",
     "_privado/anotacoes-stallone/README.md",
-    "_privado/anotacoes-stallone/PADRÃO.code-profile",
-    "_privado/anotacoes-stallone/LICENSE",
     "_privado/anotacoes-stallone/Definições/Arla.md",
-    "_privado/anotacoes-stallone/Definições",
     "_privado/anotacoes-stallone/9 - Outros/09-03-24 - Reunião com Matheus - CUSTOS.md",
     "_privado/anotacoes-stallone/9 - Outros/09-03-24 - 1a Reunião com Matheus.md",
-    "_privado/anotacoes-stallone/9 - Outros",
-    "_privado/anotacoes-stallone/8 - Projetos/12-04-24 - MICHERLANE - Treinamento para motoristas (rascunho).md",
-    "_privado/anotacoes-stallone/8 - Projetos/03-24 - Sugestão de Metas - LOGISTICA.md",
-    "_privado/anotacoes-stallone/8 - Projetos/03-24 - Repensando metas.md",
-    "_privado/anotacoes-stallone/8 - Projetos",
-    "_privado/anotacoes-stallone/3 - Análises/Atividades - Gestão de Resíduos.md",
-    "_privado/anotacoes-stallone/3 - Análises",
-    "_privado/anotacoes-stallone/2 - Demandas periódicas",
-    "_privado/anotacoes-stallone/1 - Demandas diárias",
-    "_privado/anotacoes-stallone/0 - Urgencias/12-04-24 - MATHEUS - Analise peso médio CXs aterro (sem industrial).md"
+    "_privado/anotacoes-stallone/8 - Projetos/12-04-24 - MICHERLANE - Treinamento para motoristas (rascunho).md"
   ]
 }
