@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a8c7e0bf3a5e968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "front-end/NOVO ARQUIVO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/daily model.md",
+                "file": "front-end/NOVO ARQUIVO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/daily model.md",
+                "file": "front-end/NOVO ARQUIVO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/daily model.md"
+                "file": "front-end/NOVO ARQUIVO.md"
               }
             }
           }
@@ -162,14 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66757ff106c41552",
+  "active": "3a1aa38a0b8fc602",
   "lastOpenFiles": [
+    "_templates/daily model.md",
+    "front-end/NOVO ARQUIVO.md",
     "_templates/Modelo de anotação.md",
     "README.md",
     "_daily-notes/15-04-24.md",
-    "_templates/daily model.md",
     "_NOVAS_NOTAS/teste.md",
-    "_NOVAS_NOTAS/Sem título.md",
     "_NOVAS_NOTAS/anexos/Pasted image 20240415215136.png",
     "_daily-notes/24-04-24.md",
     "_conceitos/vetores.md",
