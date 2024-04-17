@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "b92e6a8ea8570047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3bad9879879e4c95",
             "type": "leaf",
             "state": {
@@ -202,8 +214,9 @@
   },
   "active": "0f6bbe9012c54bea",
   "lastOpenFiles": [
-    "superset.md",
+    "string.md",
     "01 - Typescript/01 - introdução ao typescript.md",
+    "superset.md",
     "Excalidraw/superset_typescript.excalidraw.md",
     "01 - Typescript/anexos",
     "Excalidraw",

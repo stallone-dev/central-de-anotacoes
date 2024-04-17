@@ -1,0 +1,1 @@
+Representação literal de caracteres, sem valor numérico associado a nível de bits, em geral imutáveis e baseadas na tabela Unicode com encoder UTF-8

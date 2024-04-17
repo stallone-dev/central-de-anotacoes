@@ -47,4 +47,19 @@ soma("abc", "def")  // output: TIPO INCORRETO (não compila)
 
 ### Etapa 2 - Fundamentos e sintaxe
 
-#### Sintaxe básica
+#### Sintaxe básica - Tipos primitivos
+No Typescript existe a definição de tipos estáticos, que são representados através da sintaxe:`[variável] : [tipo]`, onde uma variável passa a ter um tipo estático que deve ser respeitado durante o desenvolvimento
+> [!warning] Observação
+> Essa restrição de tipo só existe, **de fato**, durante o desenvolvimento, após o código ser compilado essa sintaxe é excluída e o JS volta ao seu funcionamento natural
+
+##### Tipos primitivos que o TS considera:
+
+| Tipo / Sintaxxe                  | Descrição                         | Exemplos                    |
+| -------------------------------- | --------------------------------- | --------------------------- |
+| String / `[variável] : string`   | Aceita valores do tipo [[string]] | `name : string = 'Shie'`    |
+| Number / `[variável] : number`   | Aceita valores do tipo numérico   | `idade : number = 23`       |
+| Boolean / `[variável] : boolean` | Aceita valores booleanos          | `aprovado : boolean = true` |
+Há também como sinalizar que uma mesma variável pode receber mais de um tipo, através da sintaxe: `[variável] : ( [tipo1] | [tipo2] )`
+	Exemplo: `keyboardOnly: ( string | boolean ) = "new keybord"`
+
+##### Outros tipos:
