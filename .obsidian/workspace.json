@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/daily model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a8c7e0bf3a5e968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/NOVO ARQUIVO.md",
+                "file": "_conceitos/vetores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/NOVO ARQUIVO.md",
+                "file": "_conceitos/vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/NOVO ARQUIVO.md",
+                "file": "_conceitos/vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "front-end/NOVO ARQUIVO.md"
+                "file": "_conceitos/vetores.md"
               }
             }
           }
@@ -175,10 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a1aa38a0b8fc602",
+  "active": "66757ff106c41552",
   "lastOpenFiles": [
-    "_templates/daily model.md",
+    "_conceitos/anexos/Pasted image 20240415211209.png",
     "front-end/NOVO ARQUIVO.md",
+    "_templates/daily model.md",
     "_templates/Modelo de anotação.md",
     "README.md",
     "_daily-notes/15-04-24.md",
@@ -199,7 +187,6 @@
     "_NOVAS_NOTAS/15-04-24.md",
     "_NOVAS_NOTAS/2024-04-15.md",
     "universidade/README.md",
-    "_conceitos/anexos/Pasted image 20240415211209.png",
     "_conceitos/anexos",
     "Excalidraw",
     "_conceitos",

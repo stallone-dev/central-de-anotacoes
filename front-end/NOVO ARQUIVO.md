@@ -1,3 +1,0 @@
-# NOVA NOTA CRIADA
-
-*teste*
