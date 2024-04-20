@@ -59,6 +59,7 @@ No Typescript existe a definição de tipos estáticos, que são representados a
 | String / `[variável] : string`   | Aceita valores do tipo [[string]] | `name : string = 'Shie'`    |
 | Number / `[variável] : number`   | Aceita valores do tipo numérico   | `idade : number = 23`       |
 | Boolean / `[variável] : boolean` | Aceita valores booleanos          | `aprovado : boolean = true` |
+
 Há também como sinalizar que uma mesma variável pode receber mais de um tipo, através da sintaxe: `[variável] : ( [tipo1] | [tipo2] )`
 	Exemplo: `keyboardOnly: ( string | boolean ) = "new keybord"`
 
