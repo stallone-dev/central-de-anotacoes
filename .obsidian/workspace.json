@@ -6,69 +6,38 @@
       {
         "id": "eaf11247dafe89ec",
         "type": "tabs",
+        "dimension": 45.2683615819209,
         "children": [
           {
-            "id": "66757ff106c41552",
+            "id": "2e4cb239afdf2c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5edc9c7dd27572b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Typescript/_index typescript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f6bbe9012c54bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Typescript/01 - introdução ao typescript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b92e6a8ea8570047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bad9879879e4c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "superset.md",
+                "file": "99 - universidade/3P - Estrutura de dados Lineares.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "27e5c21cac417b55",
+        "type": "tabs",
+        "dimension": 54.7316384180791,
+        "children": [
+          {
+            "id": "508c4b047e35717d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 537.5086555480957,
     "collapsed": true
   },
   "right": {
@@ -135,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Typescript/01 - introdução ao typescript.md",
+                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Typescript/01 - introdução ao typescript.md",
+                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Typescript/01 - introdução ao typescript.md"
+                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf"
               }
             }
           }
@@ -212,17 +181,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f6bbe9012c54bea",
+  "active": "508c4b047e35717d",
   "lastOpenFiles": [
-    "string.md",
-    "01 - Typescript/01 - introdução ao typescript.md",
+    "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 1.pdf",
+    "99 - universidade/3P - Estrutura de dados Lineares.md",
     "superset.md",
+    "string.md",
+    "99 - universidade/README.md",
+    "README.md",
+    "01 - Typescript/_index typescript.md",
+    "99 - universidade/3P - Estrutura de dados Lineares",
+    "01 - Typescript/01 - introdução ao typescript.md",
     "Excalidraw/superset_typescript.excalidraw.md",
     "01 - Typescript/anexos",
     "Excalidraw",
-    "01 - Typescript/_index typescript.md",
     "_internals/_templates/daily model.md",
-    "README.md",
     "01 - Typescript",
     "_internals",
     "_internals/_conceitos/vetores.md",
@@ -245,20 +218,15 @@
     "_daily-notes",
     "_NOVAS_NOTAS/15-04-24.md",
     "_NOVAS_NOTAS/2024-04-15.md",
-    "99 - universidade/README.md",
-    "_internals/_conceitos/anexos",
-    "_internals/_conceitos",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
     "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Operacional.md",
-    "_privado/anotacoes-stallone/1 - Demandas diárias/Diário - Efetivações.md",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145511.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145555.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151214.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150136.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145649.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145541.png",
-    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150005.png",
-    "_privado/anotacoes-stallone/README.md"
+    "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412150005.png"
   ]
 }
