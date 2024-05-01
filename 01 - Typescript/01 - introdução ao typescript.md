@@ -63,4 +63,4 @@ No Typescript existe a definição de tipos estáticos, que são representados a
 Há também como sinalizar que uma mesma variável pode receber mais de um tipo, através da sintaxe: `[variável] : ( [tipo1] | [tipo2] )`
 	Exemplo: `keyboardOnly: ( string | boolean ) = "new keybord"`
 
-##### Outros tipos:
+##### Tipagem para :

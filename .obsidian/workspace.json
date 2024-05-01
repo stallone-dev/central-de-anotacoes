@@ -6,7 +6,6 @@
       {
         "id": "eaf11247dafe89ec",
         "type": "tabs",
-        "dimension": 45.2683615819209,
         "children": [
           {
             "id": "2e4cb239afdf2c31",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - universidade/3P - Estrutura de dados Lineares.md",
+                "file": "01 - Typescript/01 - introdução ao typescript.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "27e5c21cac417b55",
-        "type": "tabs",
-        "dimension": 54.7316384180791,
-        "children": [
-          {
-            "id": "508c4b047e35717d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf"
               }
             }
           }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537.5086555480957,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "2a87e8280a326dd0",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
+                "file": "01 - Typescript/01 - introdução ao typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
+                "file": "01 - Typescript/01 - introdução ao typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf"
+                "file": "01 - Typescript/01 - introdução ao typescript.md"
               }
             }
           }
@@ -181,15 +162,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "508c4b047e35717d",
+  "active": "2e4cb239afdf2c31",
   "lastOpenFiles": [
-    "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 1.pdf",
+    "01 - Typescript/_index typescript.md",
     "99 - universidade/3P - Estrutura de dados Lineares.md",
+    "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
+    "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 1.pdf",
     "superset.md",
     "string.md",
     "99 - universidade/README.md",
     "README.md",
-    "01 - Typescript/_index typescript.md",
     "99 - universidade/3P - Estrutura de dados Lineares",
     "01 - Typescript/01 - introdução ao typescript.md",
     "Excalidraw/superset_typescript.excalidraw.md",
@@ -215,7 +197,6 @@
     "_NOVAS_NOTAS/anexos/teorico (9).pdf",
     "_NOVAS_NOTAS/anexos/projeto_de_software_aula1.pdf",
     "_NOVAS_NOTAS/anexos",
-    "_daily-notes",
     "_NOVAS_NOTAS/15-04-24.md",
     "_NOVAS_NOTAS/2024-04-15.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
