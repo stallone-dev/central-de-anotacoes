@@ -63,4 +63,18 @@ No Typescript existe a definição de tipos estáticos, que são representados a
 Há também como sinalizar que uma mesma variável pode receber mais de um tipo, através da sintaxe: `[variável] : ( [tipo1] | [tipo2] )`
 	Exemplo: `keyboardOnly: ( string | boolean ) = "new keybord"`
 
-##### Tipagem para :
+##### Tipagem para objetos:
+No typescript, os objetos são entendidos como uma **composição de variáveis** tipadas dentro de uma estrutura de bloco.
+Para se aplicar a mesma tipagem de modo genérico, é preciso determinar um **"contrato"** que os objetos devem seguir, similar ao funcionamento de uma classe, chamado de **"interface"**
+
+>[!note] Estrutura geral de uma interface:
+``` ts
+interface Exemplo {
+	nome: string,
+	idade: number,
+	trabalha: boolean
+	[key: string] : any
+}
+```
+
+>[!info]- Tipagem opicional
