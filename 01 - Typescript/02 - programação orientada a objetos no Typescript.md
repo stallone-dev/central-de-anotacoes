@@ -25,4 +25,45 @@ Um objeto é, essencialmente, um conjunto de pares "**chave-valor**", onde a cha
 >	}
 >}
 >```
+
+### Classes
+Dentro do paradigma de POO, existe o conceito de "**classe**", um objeto especial que serve para "construir" outros objetos, servindo de molde.
+
+>[!info] Uma classe é representada desta forma:
+>```ts
+>class Animal {
+>	name: string;
+>	age: number;
+>
+>	constructor(name:string, age:number){
+>		this.name = name;
+>		this.age = age;
+>	}
+>	
+>	sayMyName = () => {
+>		console.log(`My name is: ${this.name}, and I am ${this.age} years old`)
+>	}
+>}
+>```
+
+Uma classe por si só não gera valores ou elementos executáveis, ela serve apenas como um **molde** de um objeto que conterá esses valores.
+
+Para modelar um objeto, basta utilizar o operador especial "**new**", desta forma:
+>[!example] Instanciando uma classe
+>```ts
+>const cat = new Animal("gatinho", 4)
+>```
  
+E para utilizá-la agora, é necessário apenas "chamar" as propriedades através do operador " **.** " (ponto)
+>[!example] Exemplo
+>```ts
+>const cat = new Animal("gatinho", 4);
+>
+>console.log(cat.name) // "gatinho"
+>console.log(cat.age) // 4
+>
+>cat.sayMyName() // "My name is: gadinho, and I am 4 years old'
+>```
+
+
+
