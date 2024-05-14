@@ -68,13 +68,28 @@ No typescript, os objetos são entendidos como uma **composição de variáveis*
 Para se aplicar a mesma tipagem de modo genérico, é preciso determinar um **"contrato"** que os objetos devem seguir, similar ao funcionamento de uma classe, chamado de **"interface"**
 
 >[!note] Estrutura geral de uma interface:
-``` ts
-interface Exemplo {
-	nome: string,
-	idade: number,
-	trabalha: boolean
-	[key: string] : any
-}
-```
+>``` ts
+>interface Exemplo {
+>	nome: string,
+>	idade: number,
+>	trabalha: boolean
+>	[key: string] : any
+>} 
+>```
 
 >[!info]- Tipagem opicional
+>É possível sinalizar quando um item é opcional dentro da tipagem ao utilizar o operador `?` antes da sinalização de tipo, exemplo:
+> ```ts
+> interface Opcional {
+> 	nome: string,
+> 	idade: number,
+> 	trabalha: boolean,
+> 	faculdade?: string,
+> }
+> ```
+
+##### Tipagem de arrays
+No typescript, há 2 madeiras de indicar que aquela **variável** receberá um array:
+- Sinalizando o tipo Array; `exemplo: Array<string>
+- Adicionando o símbolo de array após o tipo, `exemplo: string[]`
+Ambas as formas funcionam igualmente, em geral é recomendado utilizar a 2ª forma, uma vez que é mais simples e legível.
