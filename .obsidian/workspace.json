@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 - Typescript/01 - introdução ao typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 - Typescript/01 - introdução ao typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 - Typescript/01 - introdução ao typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 - Typescript/01 - introdução ao typescript.md"
               }
             }
           }
@@ -164,12 +164,12 @@
   },
   "active": "2e4cb239afdf2c31",
   "lastOpenFiles": [
+    "99 - universidade/3P - Estrutura de dados Lineares.md",
+    "README.md",
     "superset.md",
     "string.md",
-    "README.md",
     "01 - Typescript/01 - introdução ao typescript.md",
     "01 - Typescript/_index typescript.md",
-    "99 - universidade/3P - Estrutura de dados Lineares.md",
     "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
     "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 1.pdf",
     "99 - universidade/README.md",
