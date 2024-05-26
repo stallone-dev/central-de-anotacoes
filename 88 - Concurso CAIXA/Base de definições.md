@@ -1,4 +1,25 @@
 # Conceitos de matemática
+## 1 - Matemática financeira
+- 0 -> Conceitos gerais
+- 1 -> Dinheiro no tempo, valor presente, valor futuro, juros, taxas e prazo de operação
+- 2 -> Juros simples e compostos
+- 3 -> Séries uniformes
+- 4 -> Equivalência de capitais, VP, VF, prazos e taxas de retorno
+- 5 -> Amortização, SAC, PRICE
+- 6 -> Descontos (Racional composto e comercial simples)
+- 7 -> Sequências numérics (leis de formação, forma recursiva)
+- 8 -> Progressões aritméticas, geométricas
+
+## 2 - Probabilidade e estatística
+- 0 -> Conceitos de probabilidade e estatística
+- 1 -> Variáveis, população, amostra, frequências absoluta, relatias e acumuladas, representação em gráficos e tabelas
+- 2 -> Medidsa de tendência central (brutos e classes), médias artiméticas, geométricas, ponderada, moda e mediana
+- 3 -> Medidas de posição: Qartis e Percentis
+- 4 -> Medidas de dispersão (brutos e classes), amplitude, variância, desvio padrão, coeficiente de variação
+- 5 -> Probabilidade: Experimetno aelatório, espaco amostral, evento, progabilidade de laplace, teorema do produto
+- 6 -> Espaços equiprováveis, espaços não equiprováveis, probabilidade condicional e independência, distribuição binominal
+
+---
 # Conceitos de TI
 ## 1 - Engenharia de Software
 - 0 -> Conceitos de eng. de software
