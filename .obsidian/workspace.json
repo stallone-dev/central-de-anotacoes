@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Typescript/02 - programação orientada a objetos no Typescript.md",
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9719462739731ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "88 - Concurso CAIXA/Base de definições.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Typescript/02 - programação orientada a objetos no Typescript.md",
+                "file": "88 - Concurso CAIXA/Base de definições.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Typescript/02 - programação orientada a objetos no Typescript.md",
+                "file": "88 - Concurso CAIXA/Base de definições.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Typescript/02 - programação orientada a objetos no Typescript.md"
+                "file": "88 - Concurso CAIXA/Base de definições.md"
               }
             }
           }
@@ -175,15 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae42434b664ada8f",
+  "active": "a9719462739731ce",
   "lastOpenFiles": [
+    "string.md",
+    "superset.md",
     "Sem título.md",
+    "README.md",
+    "88 - Concurso CAIXA/Base de definições.md",
+    "88 - Concurso CAIXA",
     "01 - Typescript/02 - programação orientada a objetos no Typescript.md",
     "01 - Typescript/01 - introdução ao typescript.md",
     "99 - universidade/3P - Estrutura de dados Lineares.md",
-    "README.md",
-    "superset.md",
-    "string.md",
     "01 - Typescript/_index typescript.md",
     "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 2.pdf",
     "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 1.pdf",
@@ -211,11 +225,9 @@
     "_NOVAS_NOTAS/anexos/Pasted image 20240415222510.png",
     "_NOVAS_NOTAS/anexos/teorico (9).pdf",
     "_NOVAS_NOTAS/anexos/projeto_de_software_aula1.pdf",
-    "_NOVAS_NOTAS/anexos",
     "_NOVAS_NOTAS/15-04-24.md",
     "_NOVAS_NOTAS/2024-04-15.md",
     "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
-    "_privado/anotacoes-stallone/2 - Demandas periódicas/Controle de combustivel.md",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145511.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145555.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151214.png",
