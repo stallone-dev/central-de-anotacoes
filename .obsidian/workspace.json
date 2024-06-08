@@ -32,19 +32,37 @@
             }
           },
           {
-            "id": "a9719462739731ce",
+            "id": "a923897a382f43ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "88 - Concurso CAIXA/Base de definições.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "394e92f31fe568c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8a5a17d25faa9e08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "2a87e8280a326dd0",
@@ -111,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "88 - Concurso CAIXA/Base de definições.md",
+                "file": "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "88 - Concurso CAIXA/Base de definições.md",
+                "file": "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "88 - Concurso CAIXA/Base de definições.md"
+                "file": "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md"
               }
             }
           }
@@ -188,13 +205,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9719462739731ce",
+  "active": "8a5a17d25faa9e08",
   "lastOpenFiles": [
+    "Excalidraw/Insensibilidade emocional.md",
+    "Excalidraw/RASCUNHO problemas atuais RAY ONE.excalidraw.md",
+    "Excalidraw/superset_typescript.excalidraw.md",
+    "Sem título.md",
+    "88 - Concurso CAIXA/Base de definições.md",
     "string.md",
     "superset.md",
-    "Sem título.md",
     "README.md",
-    "88 - Concurso CAIXA/Base de definições.md",
     "88 - Concurso CAIXA",
     "01 - Typescript/02 - programação orientada a objetos no Typescript.md",
     "01 - Typescript/01 - introdução ao typescript.md",
@@ -204,7 +224,6 @@
     "99 - universidade/_priv_pdfs/3P - Estruturas de dados lineares/Estruturas lineares - aula 1.pdf",
     "99 - universidade/README.md",
     "99 - universidade/3P - Estrutura de dados Lineares",
-    "Excalidraw/superset_typescript.excalidraw.md",
     "01 - Typescript/anexos",
     "Excalidraw",
     "_internals/_templates/daily model.md",
@@ -227,8 +246,6 @@
     "_NOVAS_NOTAS/anexos/teorico (9).pdf",
     "_NOVAS_NOTAS/anexos/projeto_de_software_aula1.pdf",
     "_NOVAS_NOTAS/15-04-24.md",
-    "_NOVAS_NOTAS/2024-04-15.md",
-    "_privado/anotacoes-stallone/2 - Demandas periódicas/SINIR - Logins para MTRs.md",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145511.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412145555.png",
     "_privado/anotacoes-stallone/0 - Urgencias/anexos/Pasted image 20240412151214.png",
